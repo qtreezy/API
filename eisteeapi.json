@@ -1,0 +1,19 @@
+{
+	"Data" : [
+		{
+			"Developers" : "Snowzyツ#9495",
+			"Version" : "1.0"
+		}
+	],
+	//itemtype can be skin, background
+	"Swapper" : [
+		{
+			"itemtype" : "skin",
+			"name" : "",
+			"customicon" : "",
+			"normalicon" : "",
+			"pak" : "",
+			"paknumber" : ""
+		}
+	]
+}
