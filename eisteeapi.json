@@ -55,6 +55,14 @@
 			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
 			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928688012152426496/pakchunk266-WindowsClient.pak",
 			"paknumber" : "266"
+		},
+		{
+			"itemtype" : "background",
+			"name" : "Winter Background",
+			"customicon" : "https://cdn.discordapp.com/attachments/928672534185001010/928686018398392430/Collin_dein_ding.jpg",
+			"normalicon" : "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928751851988471808/pakchunk681-WindowsClient.pak",
+			"paknumber" : "681"
 		}
 	]
 }
