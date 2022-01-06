@@ -46,6 +46,14 @@
 			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
 			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928686147935297586/pakchunk218-WindowsClient.pak",
 			"paknumber" : "218"
+		},
+				{
+			"itemtype" : "skin",
+			"name" : "Spotify Wonder",
+			"customicon" : "",
+			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928688012152426496/pakchunk266-WindowsClient.pak",
+			"paknumber" : "266"
 		}
 	]
 }
