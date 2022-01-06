@@ -1,0 +1,601 @@
+{
+  "Swapper" : [
+      {
+          "discord":  "https://dsc.gg/slitherswapper",
+          "websitelink": "http://slitherswapper.unaux.com",
+          "SwapperKey" : "198381-198371-3726-291"
+      }
+  ],
+  "DataBase" : [
+      {
+        "itemtype" : "pickaxe",
+        "name" : "Shadow Slicer To Raider's Revenge",
+        "extra" : "false",
+        "icon" : "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/icon.png",
+        "swapicon" : "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_541_streetfashioneclipsefemale/icon.png",
+        "Data" : [
+          {
+            "offset" : "1673216",
+            "uasset" : "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_StreetFashionEclipseFemale.uasset",
+            "Ucas" : "\\pakchunk10_s22-WindowsClient",
+            "swaps": [
+              {
+                "type" : "string",
+                "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-StreetFashionEclipsePickaxe.T-Icon-Pickaxes-StreetFashionEclipsePickaxe",
+                "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-SK-Pickaxe-PostApacolyptic.T-Icon-Pickaxes-SK-Pickaxe-PostApacolyptic"
+              },
+              {
+                "type" : "string",
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_StreetFashionRed/Meshes/Demo/SK_Pickaxe_StreetFashionRed_DEMO.SK_Pickaxe_StreetFashionRed_DEMO",
+                "replace": "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic"
+              },
+              {
+                "type" : "string",
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_Street_Fashion_Eclipse_Female/Materials/MI_Pickaxe_StreetFashionEclipseFemale.MI_Pickaxe_StreetFashionEclipseFemale",
+                "replace": "/Game/Neger"
+              },
+              {
+                "type" : "string",
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/Street_Fashion_Red/PA_StreetFashionRed_Swing_Cue.PA_StreetFashionRed_Swing_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_LockJaw_Swing_Athena_Cue"
+            },
+            {
+              "type" : "string",
+              "search": "/Game/Athena/Sounds/Weapons/PickAxes/Street_Fashion_Red/PA_StreetFashionRed_Ready_Cue.PA_StreetFashionRed_Ready_Cue",
+              "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_LockJaw_Swing_Athena_Cue"
+          },
+          {
+            "type" : "string",
+            "search": "/Game/Athena/Sounds/Weapons/PickAxes/Street_Fashion_Red/PA_StreetFashionRed_Impact_Cue.PA_StreetFashionRed_Impact_Cue",
+            "replace": "/Game/Sounds/Fort_Impact_Sounds/Flesh/Player_Impact_PA_LockJaw_Cue.Player_Impact_PA_LockJaw_Cue"
+          }
+        ]
+     }
+    ]
+   },
+   {
+     "itemtype" : "backbling",
+     "name":  "Blackout Bag To Chef's Choice",
+     "extra" : "false",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/bid_088_sushichefmale/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+     "Data" : [
+       {
+         "offset" : "3216112",
+         "uasset" : "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse.uasset",
+         "Ucas" : "\\pakchunk10_s22-WindowsClient",
+         "swaps": [
+          {
+            "type" : "string",
+            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_Sushi_Chef/Meshes/M_MED_Sushi_Chef_Backpack_AnimBP.M_MED_Sushi_Chef_Backpack_AnimBP_C"
+          },
+          {
+            "type" : "string",
+            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_Sushi_Chef/Meshes/M_MED_Sushi_Chef_Backpack.M_MED_Sushi_Chef_Backpack"
+          },
+          {
+            "type" : "string",
+            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/Slither.Slither"
+          }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "backbling",
+     "name" : "Blackout bag to Slushy Jr.",
+     "extra" : "false",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/bid_164_snowmanmale/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png",
+     "Data" : [
+       {
+         "offset" : "3216112",
+         "uasset" : "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse.uasset",
+         "Ucas" : "\\pakchunk10_s22-WindowsClient",
+         "swaps": [
+          {
+            "type" : "string",
+            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack_AnimBp.F_MED_Street_Fashion_Red_Pack_AnimBp_C",
+            "replace": "/Game/Accessories/FORT_Backpacks/Backpack_Snowman/Meshes/M_MED_Snowman_AnimBlueprint.M_MED_Snowman_AnimBlueprint_C"
+          },
+          {
+            "type" : "string",
+            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+            "replace": "/Game/Accessories/FORT_Backpacks/Backpack_Snowman/Meshes/M_MED_Snowman.M_MED_Snowman"
+          },
+          {
+            "type" : "string",
+            "search": "/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpack",
+            "replace": "/Game/Stoner Yura#1609.Stoner Yura#1609.Stoner Yura#1609"
+          }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "emote",
+     "extra" : "false",
+     "name" : "Dance Moves to Floss(Lobby only)",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_floss/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_dancemoves/icon.png",
+     "Data" : [
+       {
+         "offset" : "927744",
+         "uasset" : "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+         "Ucas" : "\\pakchunk10_s4-WindowsClient",
+         "swaps": [
+           {
+            "type" : "string",
+             "search" : "/Game/Athena/Items/Cosmetics/Dances/EID_DanceMoves.EID_DanceMoves",
+             "replace" : "/Game/Athena/Items/Cosmetics/Dances/EID_Floss.EID_Floss"
+           }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "emote",
+     "extra" : "false",
+     "name" : "Dance Moves to Air Shredder",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_airguitar/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_dancemoves/icon.png",
+     "Data" : [
+       {
+         "offset" : "927744",
+         "uasset" : "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+         "Ucas" : "\\pakchunk10_s4-WindowsClient",
+         "swaps": [
+           {
+            "type" : "string",
+             "search" : "/Game/Athena/Items/Cosmetics/Dances/EID_DanceMoves.EID_DanceMoves",
+             "replace": "/Game/Athena/Items/Cosmetics/Dances/EID_AirGuitar.EID_AirGuitar"
+           }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "emote",
+     "extra" : "false",
+     "name" : "Boogie Down To Floss",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_floss/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/icon.png",
+     "Data" : [
+       {
+         "offset" : "23743184",
+         "uasset" : "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+         "Ucas" : "\\pakchunk10_s4-WindowsClient",
+         "swaps" :[
+           {
+             "type" : "string",
+             "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+             "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M"
+           },
+           {
+             "type": "string",
+             "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+             "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M"
+           },
+           {
+             "type" : "string",
+             "search" : "Boogie Down with Populotus.",
+             "replace" : "UWU UWU UWU UWU"
+           }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Blaze to Renegade Raider",
+     "extra" : "false",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_784_athena_commando_f_renegaderaiderfire/icon.png",
+     "Data"  :[
+       {
+         "offset" : "51537920",
+         "uasset" : "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire.uasset",
+         "Ucas" : "\\pakchunk10_s4-WindowsClient",
+         "swaps" : [
+           {
+             "type" : "string",
+             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+             "replace" : "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+           },
+           {
+             "type" : "string",
+             "search" : "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+             "replace" : "/Game/Stoner Yura#1609.Stoner Yura#1609"
+           },
+           {
+             "type" : "string",
+             "search" : "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+             "replace" : "/Game/00000000000000000000000000000000"
+           }
+         ]
+       },
+       {
+         "offset" : "940704",
+         "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire.uasset",
+         "Ucas" : "\\pakchunk10_s5-WindowsClient",
+         "swaps" : [
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+             "replace" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+           },
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+             "replace" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01.F_MED_ASN_Sarah_Hair_01"
+           }
+         ]
+       },
+       {
+         "offset" : "941408",
+         "uasset" : "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire.uasset",
+         "Ucas" : "\\pakchunk10_s5-WindowsClient",
+         "swaps" : [
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+             "replace" : "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01"
+           }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Blaze to Galaxy Renegade Raider",
+     "extra" : "custom",
+     "icon" : "https://cdn.discordapp.com/attachments/836627032526815253/919662062936928376/Galaxy_renegade.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_784_athena_commando_f_renegaderaiderfire/icon.png",
+     "Data" : [
+       {  
+        "offset" : "51537920",
+        "Ucas": "\\pakchunk10_s4-WindowsClient",
+        "uasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire.uasset",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+            "replace" : "/Game/Weapons/FORT_Melee/Materials/MI_FORT_Melee_Pick_Celestial.MI_FORT_Melee_Pick_Celestial"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+            "replace" : "/Game/E00ects/Fo0t_Effec00000000ts"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+            "replace" : "/Game/000/AthenaBRaider_Fire.eRaider_Fir000"
+          }
+        ]
+       },
+       {
+        "offset" : "940704",
+        "Ucas" : "\\pakchunk10_s5-WindowsClient",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire.uasset",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+            "replace" :  "/Game/Characters/Player/Female/Medium/Heads/F_MED_Lemon_Lime_Head/Skins/Celestial/Materials/F_MED_Celestial_Head.F_MED_Celestial_Head"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+            "replace" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Neon_Tight_Suit/Skins/Celestial/Materials/F_MED_Celestial_Hair.F_MED_Celestial_Hair"
+          }
+        ]
+       },
+       {
+        "offset" : "941408",
+         "Ucas" : "\\pakchunk10_s5-WindowsClient",
+         "uasset" : "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire.uasset",
+         "swaps" : [
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+             "replace" : "/Game/Weapons/FORT_Melee/Materials/MI_FORT_Melee_Pick_Celestial.MI_FORT_Melee_Pick_Celestial"
+           }
+         ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Blaze to Renegade Raider(Checkered)",
+     "icon" : "https://cdn.discordapp.com/attachments/836627032526815253/919699195869409360/Albert.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_784_athena_commando_f_renegaderaiderfire/icon.png",
+     "Data" : [
+       {
+        "offset" : "51537920",
+        "Ucas": "\\pakchunk10_s4-WindowsClient",
+        "uasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire.uasset",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+            "replace" : "/https://dsc.gg/slitherswapper"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+            "replace" : "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_21/Materials/F_MED_Commando_Body_TV21.F_MED_Commando_Body_TV21"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+            "replace" : "/Game/00s/Part_Modena_r_RenegadeRaider_Fire.B_Atheaider_Fir000"
+          }
+        ]
+       },
+       {
+        "offset" : "940704",
+        "Ucas" : "\\pakchunk10_s5-WindowsClient",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire.uasset",
+        "swaps" :[
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+            "replace" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+            "replace" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01.F_MED_ASN_Sarah_Hair_01"
+          }
+        ]
+       },
+       {
+        "offset" : "941408",
+        "Ucas" : "\\pakchunk10_s5-WindowsClient",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire.uasset",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+            "replace" : "/Game/Accessories/Hats/Materials/Female_Commando_07.Female_Commando_07"
+          }
+        ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Ruby Shadows to Travis Scoot",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/cid_703_athena_commando_m_cyclone/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/icon.png",
+     "Data" : [
+       {
+         "offset" : "278805120",
+         "uasset" : "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse.uasset",
+         "Ucas" : "\\pakchunk10_s22-WindowsClient",
+         "swaps" : [
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
+             "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Cyclone/Meshes/M_MED_Cyclone_AnimBP.M_MED_Cyclone_AnimBP_C"
+           },
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+             "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Cyclone/Meshes/M_MED_Cyclone.M_MED_Cyclone"
+           },
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
+             "replace" : "/Game/&&&&&&&&&&&&&&&&&&&&&&&&&&"
+           }
+         ]
+       },
+       {
+        "offset" : "279769856",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
+            "replace" : "/Game/Characters/Player/Male/Medium/Heads/M_MED_Cyclone_Head/Meshes/M_MED_Cyclone_Head.M_MED_Cyclone_Head"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+            "replace" : "https://dsc.gg/slitherswapper"
+          }
+        ]
+       },
+       {
+        "offset" : "280498176",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C",
+            "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Cyclone/Meshes/Parts/M_MED_Cyclone_FaceAcc_AnimBP.M_MED_Cyclone_FaceAcc_AnimBP_C"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
+            "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Cyclone/Meshes/Parts/M_MED_Cyclone_FaceAcc.M_MED_Cyclone_FaceAcc"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
+            "replace" : "/Game/Yes i am G-A-Y!"
+          }
+        ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Ruby Shadows to Kyra",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/cid_806_athena_commando_f_greenjacket/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/icon.png",
+     "Data" : [
+       {
+        "offset" : "278805120",
+        "uasset" : "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" :  "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
+            "replace" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Green_Jacket/Meshes/F_MED_Green_Jacket_AnimBP.F_MED_Green_Jacket_AnimBP_C"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+            "replace" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Green_Jacket/Meshes/F_MED_Green_Jacket.F_MED_Green_Jacket"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
+            "replace" : "/Game/Slushy Swapper is g-a-y:)))))))"
+          }
+        ]
+       },
+       {
+        "offset" : "279769856",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
+            "replace" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_Hitman_Head/Meshes/F_MED_Hitman_Head.F_MED_Hitman_Head"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+            "replace" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/GreenJacket/Materials/F_MED_GreenJacket_Head.F_MED_GreenJacket_Head"
+          }
+        ]
+       },
+       {
+        "offset" : "280498176",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps"  : [
+          {
+           "type" : "string",
+           "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C",
+           "replace" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Green_Jacket/Meshes/Parts/F_MED_Green_Jacket_FaceAcc_AnimBP.F_MED_Green_Jacket_FaceAcc_AnimBP_C"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
+            "replace" : "/Game/slither.slither"
+          }
+        ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Ruby Shadows to Rick Sanchez",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/cid_a_112_athena_commando_m_ruckus/icon.png",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/icon.png",
+     "Data" : [
+       {
+        "offset" : "278805120",
+        "uasset" : "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
+            "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ruckus/Meshes/M_MED_Ruckus_AnimBP.M_MED_Ruckus_AnimBP_C"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+            "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ruckus/Meshes/M_MED_Ruckus.M_MED_Ruckus"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
+            "replace" : "/Game/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01"
+          }
+        ]
+       },
+       {
+        "offset" : "279769856",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
+            "replace" : "/Game/Characters/Player/Male/Medium/Heads/M_MED_Ruckus_Head/Male_Medium_Ruckus_Head.Male_Medium_Ruckus_Head"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+            "replace" : "/Game/https://onlyfans.com/deezballs"
+          }
+        ]
+       },
+       {
+        "offset" : "280498176",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse.uasset",
+        "Ucas" : "\\pakchunk10_s22-WindowsClient",
+        "swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C",
+            "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ruckus/Meshes/Parts/M_MED_Ruckus_AnimBP.M_MED_Ruckus_AnimBP_C"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
+            "replace" : "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ruckus/Meshes/Parts/M_MED_Ruckus.M_MED_Ruckus"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
+            "replace" : "/Game/Player\\\\\\\\\\\\\//\\//"
+          }
+        ]
+       }
+     ]
+   },
+   {
+     "itemtype" : "skin",
+     "name" : "Default to Arial Assault Trooper",
+     "swapicon" : "https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+     "icon" : "https://fortnite-api.com/images/cosmetics/br/cid_017_athena_commando_m/icon.png",
+     "Data" : [
+       {
+         "uasset" : "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+         "Ucas" :  "\\pakchunk10_s4-WindowsClient",
+         "offset" : "927744",
+         "swaps" : [
+           {
+             "type" : "string",
+             "search" : "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
+             "replace" : "/Game/Athena/Heroes/Meshes/Bodies/CP_017_Athena_Body.CP_017_Athena_Body"
+           },
+           {
+             "type" : "string",
+             "search" : "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
+             "replace" : "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_02_V1.Hat_M_Commando_02_V1"
+           }
+         ]
+       },
+       {
+         
+       }
+     ]
+   }
+  ]
+}
