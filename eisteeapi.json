@@ -48,7 +48,7 @@
 			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928686147935297586/pakchunk218-WindowsClient.pak",
 			"paknumber" : "218"
 		},
-				{
+		{
 			"itemtype" : "skin",
 			"name" : "Spotify Wonder",
 			"customicon" : "https://cdn.discordapp.com/attachments/928745170961326192/928754632090587227/Screenshot_2022-01-06_215856_1.png",
@@ -64,13 +64,14 @@
 			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928751851988471808/pakchunk681-WindowsClient.pak",
 			"paknumber" : "681"
 		},
-				{
+		{
 			"itemtype" : "skin",
-			"name" : "Pink Wonder",
-			"customicon" : "https://cdn.discordapp.com/attachments/928672534185001010/928757047116324914/Screenshot_2022-01-06_220803_1.png",
-			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
-			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928756478809083964/pakchunk16-WindowsClient.pak",
-			"paknumber" : "16"
-		}
+			"name" : "Gucci Renegade Raider",
+			"customicon" : "https://cdn.discordapp.com/attachments/928672534185001010/928761021819138058/Fortnite_06_1.png",
+			"normalicon" : "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928757812086050916/pakchunk919-WindowsClient.pak",
+			"paknumber" : "919"
+		},
+		
 	]
 }
