@@ -9,7 +9,7 @@
 	//itemtype can be skin, background
 	"Swapper" : [
 		{
-			"itemtype" : "skin",
+			/*"itemtype" : "skin",
 			"name" : "Seven Up Ghoul",
 			"customicon" : "",
 			"normalicon" : "https://image.fnbr.co/outfit/5ab16c0e5f957f27504aa4e4/icon.png",
@@ -39,7 +39,7 @@
 			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
 			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928686147935297586/pakchunk218-WindowsClient.pak",
 			"paknumber" : "218"
-		},
+		},*/
 		{
 			"itemtype" : "skin",
 			"name" : "Spotify Wonder",
