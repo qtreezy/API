@@ -8,7 +8,38 @@
 	],
 	//itemtype can be skin, background
 	"Swapper" : [
-
+		{
+			"itemtype" : "skin",
+			"name" : "Seven Up Ghoul",
+			"customicon" : "",
+			"normalicon" : "https://image.fnbr.co/outfit/5ab16c0e5f957f27504aa4e4/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928684371974717440/pakchunk82-WindowsClient.pak",
+			"paknumber" : "82"
+		},
+		{
+			"itemtype" : "skin",
+			"name" : "Tommy Hilfinger Wonder",
+			"customicon" : "",
+			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928684471279050792/pakchunk854-WindowsClient.pak",
+			"paknumber" : "854"
+		},
+		{
+			"itemtype" : "skin",
+			"name" : "Nike Rengade Raider",
+			"customicon" : "",
+			"normalicon" : "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928684488467304578/pakchunk532-WindowsClient.pak",
+			"paknumber" : "532"
+		},
+		{
+			"itemtype" : "skin",
+			"name" : "Adidas Wonder",
+			"customicon" : "",
+			"normalicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928686147935297586/pakchunk218-WindowsClient.pak",
+			"paknumber" : "218"
+		},
 		{
 			"itemtype" : "skin",
 			"name" : "Spotify Wonder",
