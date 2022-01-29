@@ -1,0 +1,209 @@
+{
+  "Cosmetics" : [
+  {
+          "itemtype" : "emote",
+          "name" : "Boogie Down to Freestylin'",
+          "note" : "false",
+          "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_hiphop01/icon.png",
+          "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/icon.png",
+          "Data" : [
+            {
+              "pakfile" : "pakchunk10_s4-WindowsClient.ucas",
+              "uasset" : "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+              "Swaps" : [
+                {
+                  "type" : "string",
+                  "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                  "replace" : "/Game/Animation/Game/MainPlayer/Emotes/HipHop_01/Emote_Hiphop_01_CMM_M.Emote_Hiphop_01_CMM_M"
+                },
+                {
+                  "type" : "string",
+                  "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+                  "replace" : "/Game/Animation/Game/MainPlayer/Emotes/HipHop_01/Emote_Hiphop_01_CMF_M.Emote_Hiphop_01_CMF_M"
+                }
+              ]
+            }
+          ]
+  },
+  {
+    "itemtype" : "emote",
+    "name" : "Boogie Down to Frolic",
+    "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_layers_bbz49/icon.png",
+    "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/icon.png",
+    "note" : "false",
+    "Data" : [
+      {
+        "pakfile" : "pakchunk10_s4-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+        "Swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Layers/Emote_Layers_CMM_M.Emote_Layers_CMM_M"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Layers/Emote_Layers_CMF_M.Emote_Layers_CMF_M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemtype" : "skin",
+    "name" : "Nitelite to Ghoul Trooper",
+    "icon" : "https://cdn.discordapp.com/attachments/836627032526815253/918621352901111848/unknown.png",
+    "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_124_athena_commando_f_auroraglow/icon.png",
+    "note" : "it's very bugy",
+    "Data" : [
+      {
+        "pakfile" : "pakchunk100_s4-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow.uasset",
+        "Swaps" : [
+          {
+            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
+            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body"
+          }
+        ]
+      },
+      {
+        "pakfile" : "pakchunk100_s5-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.uasset",
+        "Swaps" : [
+         {
+           "search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
+           "replace": "/Game/Characters/CharacterColorSwatches/Skin/F_LRG_CAU.F_LRG_CAU"
+         },
+         {
+           "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
+           "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair"
+         },
+         {
+           "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
+           "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head"
+         },
+         {
+           "search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
+           "replace": "/Game/Accessories/GayNiggerPorn.GayNiggerPorn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemtype" : "pickaxe",
+    "name" : "Shadow Slicer to Diamond Jack",
+    "note" : "false",
+    "icon" : "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_359_cyclonemale/icon.png",
+    "swapicon" : "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_541_streetfashioneclipsefemale/icon.png",
+    "Data" : [
+      {
+        "pakfile" : "pakchunk100_s22-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_StreetFashionEclipseFemale.uasset",
+        "Swaps" : [
+           {
+             "search": "/Game/Weapons/FORT_Melee/Pickaxe_StreetFashionRed/Meshes/Demo/SK_Pickaxe_StreetFashionRed_DEMO.SK_Pickaxe_StreetFashionRed_DEMO",
+             "replace": "/Game/Weapons/FORT_Melee/Pickaxe_Cyclone_Male/Meshes/PROTO/Cyclone_Male_Pickaxe.Cyclone_Male_Pickaxe"
+           },
+           {
+             "search": "/Game/Athena/Sounds/Weapons/PickAxes/Street_Fashion_Red/PA_StreetFashionRed_Impact_Cue.PA_StreetFashionRed_Impact_Cue",
+             "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Cyclone_Male/Pickaxe_CycloneMale_Impact_Cue.Pickaxe_CycloneMale_Impact_Cue"
+           },
+           {
+             "search": "/Game/Athena/Sounds/Weapons/PickAxes/Street_Fashion_Red/PA_StreetFashionRed_Ready_Cue.PA_StreetFashionRed_Ready_Cue",
+             "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Cyclone_Male/Pickaxe_CycloneMale_Ready_Cue.Pickaxe_CycloneMale_Ready_Cue"
+           },
+           {
+             "search": "/Game/Athena/Sounds/Weapons/PickAxes/Street_Fashion_Red/PA_StreetFashionRed_Swing_Cue.PA_StreetFashionRed_Swing_Cue",
+             "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Cyclone_Male/Pickaxe_CycloneMale_Swing_Cue.Pickaxe_CycloneMale_Swing_Cue"
+           },
+           {
+             "search": "/Game/Weapons/FORT_Melee/Pickaxe_Street_Fashion_Eclipse_Female/Materials/MI_Pickaxe_StreetFashionEclipseFemale.MI_Pickaxe_StreetFashionEclipseFemale",
+             "replace": "/Game/Weapons/FORT_Melee/Pickaxe_Street_Fashion_Eclipse_Female/Materials/Sakura.P_Melee_Trail_Default\\"
+           },
+           {
+             "search": "/Game/Effects/Fort_Effects/Effects/Melee/P_Melee_Trail_Default.P_Melee_Trail_Default",
+             "replace": "/Game/Effects/Fort_Effects/Effects/Melee/Sakura_.Sakura_"
+           }
+        ]
+      }
+    ]
+  },
+  {
+    "itemtype" : "emote",
+    "name" : "Boogie Down to Scenario",
+    "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_kpopdance03/icon.png",
+    "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/icon.png",
+    "note" : "false",
+    "Data" : [
+      {
+        "pakfile" : "pakchunk10_s4-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+        "Swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M" 
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_Female_M.Emote_KPOP_Dance03_Female_M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemtype" : "emote",
+    "name" : "Boogie Down to Slalom Style",
+    "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_skeemote_k5j4j/icon.png",
+    "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_boogiedown/icon.png",
+    "note" : "false",
+    "Data" : [
+      {
+        "pakfile" : "pakchunk10_s4-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+        "Swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMM",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Skeemote/Emote_Skeemote_CMM_M.Emote_Skeemote_CMM_M"
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Skeemote/Emote_Skeemote_CMF_M.Emote_Skeemote_CMF_M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemtype" : "emote",
+    "name" : "Boogie Down to Floss",
+    "icon" : "https://fortnite-api.com/images/cosmetics/br/eid_kpopdance03/icon.png",
+    "swapicon" : "https://fortnite-api.com/images/cosmetics/br/eid_floss/icon.png",
+    "note" : "false",
+    "Data" : [
+      {
+        "pakfile" : "pakchunk10_s4-WindowsClient.ucas",
+        "uasset" : "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+        "Swaps" : [
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M" 
+          },
+          {
+            "type" : "string",
+            "search" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+            "replace" : "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
