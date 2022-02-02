@@ -1,0 +1,36 @@
+{
+    "Cosmetics" : [
+        {
+            "itemtype" : "skin",
+			"name" : "Spotify Wonder",
+			"icon" : "https://cdn.discordapp.com/attachments/928745170961326192/928754632090587227/Screenshot_2022-01-06_215856_1.png",
+			"swapicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928688012152426496/pakchunk266-WindowsClient.pak",
+			"paknumber" : "266"
+		},
+		{
+			"itemtype" : "skin",
+			"name" : "Gucci Renegade Raider",
+			"icon" : "https://cdn.discordapp.com/attachments/928672534185001010/928761021819138058/Fortnite_06_1.png",
+			"swapicon" : "https://image.fnbr.co/outfit/5ab17d925f957f27504aa53d/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928757812086050916/pakchunk919-WindowsClient.pak",
+			"paknumber" : "919"
+		},
+		{
+			"itemtype" : "skin",
+			"name" : "Pink Wonder",
+			"icon" : "https://cdn.discordapp.com/attachments/928672534185001010/928757047116324914/Screenshot_2022-01-06_220803_1.png",
+			"swapicon" : "https://image.fnbr.co/outfit/5cf8d899105b8302dc361c00/icon.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928672534185001010/928756478809083964/pakchunk16-WindowsClient.pak",
+			"paknumber" : "16"	
+		},
+		{
+			"itemtype" : "background",
+			"name" : "Swamp Background",
+			"icon" : "https://cdn.discordapp.com/attachments/929333223476056074/929337672252686356/T_BP14_Lobby.png",
+			"swapicon" : "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+			"pak" : "https://cdn.discordapp.com/attachments/928971973973929994/928973842439880714/pakchunk618-WindowsClient.pak",
+			"paknumber" : "618"
+		}    
+    ]
+}
